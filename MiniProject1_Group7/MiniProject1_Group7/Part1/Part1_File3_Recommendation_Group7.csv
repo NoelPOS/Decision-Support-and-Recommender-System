@@ -1,0 +1,46 @@
+User ID,Book's ISBN,Book's Title,Similarity Value
+11676,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.1145454545454545
+11676,345337662,Interview with the Vampire,0.0647840531561461
+11676,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.0617495711835334
+11676,440211727,A Time to Kill,0.0566037735849056
+11676,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.0543859649122807
+16795,446310786,To Kill a Mockingbird,0.0970873786407767
+16795,014028009X,Bridget Jones s Diary,0.0947867298578199
+16795,345337662,Interview with the Vampire,0.0942622950819672
+16795,044021145X,The Firm,0.0938967136150234
+16795,068484477X,STONES FROM THE RIVER,0.0904522613065326
+22625,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.1831395348837209
+22625,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.0868421052631579
+22625,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.0851648351648351
+22625,345337662,Interview with the Vampire,0.084788029925187
+22625,439139600,Harry Potter and the Goblet of Fire (Book 4),0.0797872340425532
+35859,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.2550607287449393
+35859,043935806X,Harry Potter and the Order of the Phoenix (Book 5),0.1016949152542373
+35859,345337662,Interview with the Vampire,0.1009771986970684
+35859,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.0934256055363321
+35859,440224764,The Partner,0.0902255639097744
+95359,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.0932944606413994
+95359,059035342X,Harry Potter and the Sorcerer s Stone (Harry Potter (Paperback)),0.0932944606413994
+95359,345337662,Interview with the Vampire,0.0833333333333333
+95359,440211727,A Time to Kill,0.0708215297450425
+95359,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.0702247191011236
+104636,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.1789772727272727
+104636,043935806X,Harry Potter and the Order of the Phoenix (Book 5),0.096938775510204
+104636,439136350,Harry Potter and the Prisoner of Azkaban (Book 3),0.074585635359116
+104636,345337662,Interview with the Vampire,0.0700483091787439
+104636,375707972,The Reader,0.0686015831134564
+110912,345337662,Interview with the Vampire,0.0906735751295336
+110912,059035342X,Harry Potter and the Sorcerer s Stone (Harry Potter (Paperback)),0.0856353591160221
+110912,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.0856353591160221
+110912,439139600,Harry Potter and the Goblet of Fire (Book 4),0.0828729281767955
+110912,439064872,Harry Potter and the Chamber of Secrets (Book 2),0.0793201133144475
+204864,345337662,Interview with the Vampire,0.079136690647482
+204864,312924585,Silence of the Lambs,0.0716112531969309
+204864,440211727,A Time to Kill,0.0678391959798995
+204864,684872153,Angela s Ashes (MMP) : A Memoir,0.0652173913043478
+204864,345339703,The Fellowship of the Ring (The Lord of the Rings Part 1),0.0615384615384615
+271448,439136369,Harry Potter and the Prisoner of Azkaban (Book 3),0.0921409214092141
+271448,590353403,Harry Potter and the Sorcerer s Stone (Book 1),0.0846994535519125
+271448,059035342X,Harry Potter and the Sorcerer s Stone (Harry Potter (Paperback)),0.0846994535519125
+271448,345337662,Interview with the Vampire,0.0786802030456852
+271448,044021145X,The Firm,0.0771349862258953
